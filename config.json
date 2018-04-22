@@ -1,0 +1,15 @@
+{
+  "twitter": {
+    "user": "dril",
+    "consumer_key": "PUT_YOU_KEY_HERE",
+    "consumer_secret": "PUT_YOUR_SECRET_HERE",
+    "access_token": "PUT_YOUR_TOKEN_HERE",
+    "access_token_secret": "PUT_YOUR_SECRET_HERE"
+  },
+  "google": {
+    "calendar_id": null,
+    "calendar_name": "calendril",
+    "client_id": "PUT_YOUR_ID_HERE",
+    "client_secret": "PUT_YOUR_SECRET_HERE"
+  }
+}

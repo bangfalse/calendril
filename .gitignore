@@ -1,0 +1,7 @@
+.idea/
+bin/
+include/
+lib/
+pyvenv.cfg
+pip-selfcheck.json
+credentials.json
